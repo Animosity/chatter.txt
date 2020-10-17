@@ -1,0 +1,10 @@
+altgraph==0.16.1
+future==0.16.0
+macholib==1.10
+pefile==2018.8.8
+PyInstaller==3.3.1
+pynput==1.4
+pyperclip==1.6.4
+pypiwin32==223
+pywin32==223
+six==1.11.0
